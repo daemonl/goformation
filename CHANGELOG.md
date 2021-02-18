@@ -1,5 +1,54 @@
 # GoFormation Versioning Changelog
 
+## [4.16.3](https://github.com/awslabs/goformation/compare/v4.16.2...v4.16.3) (2021-02-17)
+
+
+### Bug Fixes
+
+* **schema:** CloudFormation Updates ([#348](https://github.com/awslabs/goformation/issues/348)) ([5dd2417](https://github.com/awslabs/goformation/commit/5dd2417ddc3a063cbb2bba612938671e60bbb5ca))
+
+## [4.16.2](https://github.com/awslabs/goformation/compare/v4.16.1...v4.16.2) (2021-02-09)
+
+
+### Bug Fixes
+
+* **schema:** CloudFormation Updates ([#347](https://github.com/awslabs/goformation/issues/347)) ([d49d514](https://github.com/awslabs/goformation/commit/d49d514d3cff735b2e9fffc261e6b6c05f1f8a5a))
+
+## [4.16.1](https://github.com/awslabs/goformation/compare/v4.16.0...v4.16.1) (2021-02-09)
+
+
+### Bug Fixes
+
+* **template:** field Export on type Output should be pointer ([#299](https://github.com/awslabs/goformation/issues/299)) ([7d5870e](https://github.com/awslabs/goformation/commit/7d5870eff12e2ca9c011fb41b6748d0c3ec5f1d9)), closes [#294](https://github.com/awslabs/goformation/issues/294)
+
+# [4.16.0](https://github.com/awslabs/goformation/compare/v4.15.9...v4.16.0) (2021-02-03)
+
+
+### Features
+
+* **intrinsics:** Allow for int in Fn::Equals ([#346](https://github.com/awslabs/goformation/issues/346)) ([dd6cd2d](https://github.com/awslabs/goformation/commit/dd6cd2d943eca6b4b0118066665a850ad0f2cc50))
+
+## [4.15.9](https://github.com/awslabs/goformation/compare/v4.15.8...v4.15.9) (2021-01-29)
+
+
+### Bug Fixes
+
+* **schema:** CloudFormation Updates ([#342](https://github.com/awslabs/goformation/issues/342)) ([f047bed](https://github.com/awslabs/goformation/commit/f047bedef1193c8755bebac7f9edd3d872d52e1a))
+
+## [4.15.8](https://github.com/awslabs/goformation/compare/v4.15.7...v4.15.8) (2021-01-23)
+
+
+### Bug Fixes
+
+* **schema:** CloudFormation Updates ([#341](https://github.com/awslabs/goformation/issues/341)) ([b65192b](https://github.com/awslabs/goformation/commit/b65192ba5d65da80351698c0eae194c02e5afcf6))
+
+## [4.15.7](https://github.com/awslabs/goformation/compare/v4.15.6...v4.15.7) (2021-01-05)
+
+
+### Bug Fixes
+
+* **schema:** S3Location or String support for AWS::Serverless::LayerVersion.ContentUri ([#339](https://github.com/awslabs/goformation/issues/339)) ([6e39ebe](https://github.com/awslabs/goformation/commit/6e39ebe6e598e68f366b61b721e1ada2bdf268af)), closes [#337](https://github.com/awslabs/goformation/issues/337)
+
 ## [4.15.6](https://github.com/awslabs/goformation/compare/v4.15.5...v4.15.6) (2020-11-22)
 
 
